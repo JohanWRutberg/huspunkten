@@ -246,7 +246,7 @@ body, html {
     margin-right: 10vw;
     margin-left: 10vw;
     height: auto;
-    /*Grid area -  /*Where do i want each block to be?, how many rows will be used?*/
+    /*Grid area -  Where do i want each block to be?, how many rows will be used?*/
     grid-template-areas: 
     "comment1 comment1 comment2 comment2"
     "comment3 comment3 comment4 comment4"
